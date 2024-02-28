@@ -1,0 +1,25 @@
+# depslib dependency file v1.0
+1534371357 source:d:\bureau\codeblocks\pendu\main.c
+	"main.h"
+
+1534369524 d:\bureau\codeblocks\pendu\main.h
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+	<ctype.h>
+	<string.h>
+	<time.h>
+	<windows.h>
+
+1534364286 source:d:\bureau\informatique\codeblocks\pendu_\main.c
+	"main.h"
+
+1534362324 d:\bureau\informatique\codeblocks\pendu_\main.h
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+	<ctype.h>
+	<string.h>
+	<time.h>
+	<windows.h>
+
